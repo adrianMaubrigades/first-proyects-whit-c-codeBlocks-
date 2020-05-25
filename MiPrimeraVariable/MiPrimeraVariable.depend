@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590005780 source:c:\users\user\desktop\programacionconcodeblocks\primervariable\miprimeravariable\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
