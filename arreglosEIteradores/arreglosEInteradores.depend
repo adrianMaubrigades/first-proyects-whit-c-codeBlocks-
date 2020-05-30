@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1590670505 source:c:\users\user\desktop\programacionconcodeblocks\primervariable\arregloseiteradores\main.c
+	<stdio.h>
+	<stdlib.h>
+

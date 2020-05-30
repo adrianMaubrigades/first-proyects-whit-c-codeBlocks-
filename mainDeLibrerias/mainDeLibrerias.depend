@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1590805213 source:c:\users\user\desktop\programacionconcodeblocks\primeraspracticas\maindelibrerias\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
+1590805211 c:\users\user\desktop\programacionconcodeblocks\primeraspracticas\maindelibrerias\operaciones.h
+
