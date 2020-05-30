@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1590801422 source:c:\users\user\desktop\programacionconcodeblocks\primervariable\guardandoenarchivos\main.c
+	<stdio.h>
+	<stdlib.h>
+
