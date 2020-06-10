@@ -1,0 +1,4 @@
+en esta parte practique programacion estructurada usando codeBlocks
+practicando el lenguaje c al menos de una manera basica
+utilizando iteradores, imprimir en pantalla, tomar datos
+condicionales, recursividad, arreglos, apuntadores y mas
